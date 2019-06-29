@@ -7,7 +7,7 @@ let period = 5;
 
 
 
-console.log(money, income, deposit);
+console.log(50000, 'freelance', 'coven', true);
 console.log(income.length);
 console.log(period, mission);
 console.log(addExpenses.toLowerCase());
