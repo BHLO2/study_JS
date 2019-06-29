@@ -7,7 +7,7 @@ let period = 5;
 
 
 
-console.log(50000, 'freelance', 'coven', true);
+console.log(typeof 50000, typeof 'freelance', typeof 'coven', typeof true);
 console.log(income.length);
 console.log(period, mission);
 console.log(addExpenses.toLowerCase());
